@@ -1,3 +1,3 @@
-git add python.py
+git add .
 git commit -m "Update code"
-git push origin main
+git push -u origin main

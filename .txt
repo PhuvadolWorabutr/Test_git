@@ -3,10 +3,14 @@ https://github.com/PhuvadolWorabutr/Test_git.git
 echo "# Test_git" >> README.md
 git init  # ติดตั้ง git
 git add .
+git status
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/PhuvadolWorabutr/Test_git.git
 git push -u origin main
+
+------------------------------------------------------------------------------------
+
 
 
 git remote add origin https://github.com/PhuvadolWorabutr/Test_git.git
